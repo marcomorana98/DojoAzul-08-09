@@ -1,0 +1,3 @@
+gdb: https://www.onlinegdb.com/fork/0N-MZXwJ7
+tinkercad: https://www.tinkercad.com/things/fpy1AWiv67v-cool-esboo/editel?sharecode=wzLxdQtQll4x0WS7eYeBssKpx2L9YTn_OILKGtWWo8Q
+documentacion: https://docs.google.com/document/d/1ob4-_9YdyUwmiWqYkO2aSHCqtX26z1hCLuZe8mVn-gE/edit?usp=sharing
