@@ -1,17 +1,18 @@
+El programa utiliza un pulsador para que el visualizador arranque y cuente del 0 al 9 y cuando llega a un número primo la lamparita se enciende.
+
+Integrantes:
+Mauro Gomez.
+Evelyn Fernandez Hilari.
+Felipe Mendiondo.
+Augusto Mercado.
+Marco Morana.
+Hebe miño.
+Ivan Paz.
+Katerina Schmidt.
+Mauro Segobia.
+Thiago Vallejos.
+
 gdb: https://www.onlinegdb.com/fork/0N-MZXwJ7
 tinkercad: https://www.tinkercad.com/things/fpy1AWiv67v-cool-esboo/editel?sharecode=wzLxdQtQll4x0WS7eYeBssKpx2L9YTn_OILKGtWWo8Q
 documentacion: https://docs.google.com/document/d/1ob4-_9YdyUwmiWqYkO2aSHCqtX26z1hCLuZe8mVn-gE/edit?usp=sharing
 
-Integrantes:
-Ivan Ramiro Paz Agüero
-diego luna
-Katerina Schmidt
-Felipe Mendiondo
-Augusto Mercado
-Hebe Miño
-Mauro Nahuel Segobia
-Marco Morana
-Gomez Mauro
-Thiago Vallejos
-gaston cragno
-Evelyn Noelia Fernandez Hilari
